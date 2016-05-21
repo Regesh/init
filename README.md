@@ -27,6 +27,7 @@ currentMedia = current media query you are on (small, medium, large = default si
 object methods:
 
 register : receives 3 arguments - function name, mediaQuery and orientation mode (optional)
+
 setSizes : receives 3 arguments - max width for small, max width for medium, max width for large
 
 for more info / question, please email me at : regev7@gmail.com
