@@ -17,10 +17,13 @@ initPort: 'javascript code or function name',
 initLand:'javascript code or function name',
 }
 );
+
 object properties:
 
 mode = current window mode (land / port)
+
 currentMedia = current media query you are on (small, medium, large = default size are : {380,960,1280})
+
 object methods:
 
 register : receives 3 arguments - function name, mediaQuery and orientation mode (optional)
