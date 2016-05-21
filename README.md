@@ -7,7 +7,7 @@ i've created this helper for mobile purposes, but you can use it for regular res
 now you can control easily about the resize events.
 (btw - its less than 3 kb ! so go ahead, and use it)
 
-<h1>Documentation<h1> :
+<h1><u>Documentation</u>:<h1>
 
 <span id="output">
       <h3>create new Init Object by adding the following code :</h3>
