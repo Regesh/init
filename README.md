@@ -1,5 +1,5 @@
-# init
-init class for resize events
+# Init
+<i>init class for resize events</i>
 
 <h2>Hey All !</h2>
 
@@ -8,8 +8,6 @@ now you can control easily about the resize events.
 (btw - its less than 3 kb ! so go ahead, and use it)
 
 <h1><u>Documentation</u>:<h1>
-
-<span id="output">
       <h3>create new Init Object by adding the following code :</h3>
       var myInit = new Init(<br/>
         {<br/>
@@ -17,7 +15,6 @@ now you can control easily about the resize events.
         initLand:'javascript code or function name',<br/>
         }<br/>
       );
-  </span>
   <h3>object properties:<br/></h3>
   <ul>
     <li>mode = current window mode (land / port)</li>
