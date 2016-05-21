@@ -1,12 +1,9 @@
 # Init
 <i>init class for resize events</i>
-
 <h2>Hey All !</h2>
-
 i've created this helper for mobile purposes, but you can use it for regular resize events too.
 now you can control easily about the resize events.
 (btw - its less than 3 kb ! so go ahead, and use it)
-
 <h1><u>Documentation</u>:<h1>
       <h3>create new Init Object by adding the following code :</h3>
       var myInit = new Init(<br/>
